@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Kaalatrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaalatrie&show_icons=true&theme=merko)
+![Kaalatrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaalatrie&show_icons=true&theme=highcontrast)
 
 
 <!--
